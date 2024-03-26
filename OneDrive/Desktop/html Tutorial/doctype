@@ -1,0 +1,12 @@
+<!DOCTYPE html>     <!-- tells browser above the html version -->
+  <html> <!-- beginning of the html document -->
+     <head>
+           <!-- header related tags e.g. title, links etc. -->
+     </head>
+
+     <body>
+            <!-- actual html document here -->
+
+            <!-- add JavaScript files here -->
+    </body>
+ </html>
